@@ -1,2 +1,2 @@
-# senai-versoes-colaboracoes
+# senai-versoes-colab
 Solução de conflitos
